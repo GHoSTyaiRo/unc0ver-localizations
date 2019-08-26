@@ -1,36 +1,36 @@
 
 /* Class = "UILabel"; text = "Export TFP0"; ObjectID = "0lM-oV-NGn"; */
-"0lM-oV-NGn.text" = "Export TFP0";
+"0lM-oV-NGn.text" = "Exportar TFP0";
 
 /* Class = "UIButton"; normalTitle = "Clean Diagnostics Data"; ObjectID = "2He-sb-oZG"; */
-"2He-sb-oZG.normalTitle" = "Clean Diagnostics Data";
+"2He-sb-oZG.normalTitle" = "Limpiar Datos De Diagnostico";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2mQ-1t-c11"; */
-"2mQ-1t-c11.title" = "Settings";
+"2mQ-1t-c11.title" = "Ajustes";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "36t-As-Rhs"; */
-"36t-As-Rhs.normalTitle" = "Done";
+"36t-As-Rhs.normalTitle" = "Echo";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "380-mY-NVs"; */
-"380-mY-NVs.normalTitle" = "Done";
+"380-mY-NVs.normalTitle" = "Echo";
 
 /* Class = "UIButton"; normalTitle = "@benjweaverdev (Development)"; ObjectID = "4tc-UD-CU7"; */
-"4tc-UD-CU7.normalTitle" = "@benjweaverdev (Development)";
+"4tc-UD-CU7.normalTitle" = "@benjweaverdev (Desarrollo)";
 
 /* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
-"5Ee-VR-cUR.text" = "Set Boot Nonce";
+"5Ee-VR-cUR.text" = "Establezar Nonce De Arranque";
 
 /* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
-"6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Development)";
+"6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Desarrollo)";
 
 /* Class = "UINavigationItem"; title = "Special Thanks"; ObjectID = "6zY-vq-3l3"; */
-"6zY-vq-3l3.title" = "Special Thanks";
+"6zY-vq-3l3.title" = "Gracias Especiales";
 
 /* Class = "UILabel"; text = "Disable Updates"; ObjectID = "78K-TY-Swa"; */
-"78K-TY-Swa.text" = "Disable Updates";
+"78K-TY-Swa.text" = "Desabilitar Actualizaciones";
 
 /* Class = "UIButton"; normalTitle = "@Externalist (Development)"; ObjectID = "7IF-fV-7yG"; */
-"7IF-fV-7yG.normalTitle" = "@Externalist (Development)";
+"7IF-fV-7yG.normalTitle" = "@Externalist (Desarrollo)";
 
 /* Class = "UILabel"; text = "25/33"; ObjectID = "7Jo-bD-IJb"; */
 "7Jo-bD-IJb.text" = "25/33";
@@ -39,7 +39,7 @@
 "8U8-1D-Tj2.normalTitle" = "Share Diagnostics Data";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9r5-4K-fy9"; */
-"9r5-4K-fy9.normalTitle" = "Button";
+"9r5-4K-fy9.normalTitle" = "Boton";
 
 /* Class = "UILabel"; text = "u0"; ObjectID = "A1X-qf-Qzr"; */
 "A1X-qf-Qzr.text" = "u0";
